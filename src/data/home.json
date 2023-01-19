@@ -1,0 +1,114 @@
+{
+    "connection1": [
+        {
+            "id": "01c1",
+            "connection": 1,
+            "fileName": "API LOGS",
+            "numOfFiles": 2,
+            "fileSize": 14.05,
+            "numOfRows": 10,
+            "dataFiles": [
+                {
+                    "dataFileName": "API_LOG_2020_10_01.csv",
+                    "dataSentDate": "2020-10-01"
+                },
+                {
+                    "dataFileName": "API_LOG_2020_09_30.csv",
+                    "dataSentDate": "2020-09-30"
+                }
+            ]
+        },
+        {
+            "id": "02c1",
+            "connection": 1,
+            "fileName": "Downloads",
+            "numOfFiles": 3,
+            "fileSize": 13.15,
+            "numOfRows": 6,
+            "dataFiles": [
+                {
+                    "dataFileName": "Download_2020_10_01.csv",
+                    "dataSentDate": "2020-10-01"
+                },
+                {
+                    "dataFileName": "Download_2020_09_30.csv",
+                    "dataSentDate": "2020-09-30"
+                }
+            ]
+        },
+        {
+            "id": "03c1",
+            "connection": 1,
+            "fileName": "Downloads",
+            "numOfFiles": 4,
+            "fileSize": 12.45,
+            "numOfRows": 8,
+            "dataFiles": [
+                {
+                    "dataFileName": "Download_2020_05_07.csv",
+                    "dataSentDate": "2020-05-07"
+                },
+                {
+                    "dataFileName": "Download_2020_06_14.csv",
+                    "dataSentDate": "2020-06-14"
+                }
+            ]
+        }
+    ],
+    "connection2":[
+        {
+            "id": "01c2",
+            "connection": 2,
+            "fileName": "Downloads",
+            "numOfFiles": 3,
+            "fileSize": 15.36,
+            "numOfRows": 18,
+            "dataFiles": [
+                {
+                    "dataFileName": "Downloads_2020_03_11.csv",
+                    "dataSentDate": "2020-03-11"
+                },
+                {
+                    "dataFileName": "Downloads_2020_03_13.csv",
+                    "dataSentDate": "2020-03-13"
+                }
+            ]
+        },
+        {
+            "id": "02c2",
+            "connection": 2,
+            "fileName": "Downloads",
+            "numOfFiles": 2,
+            "fileSize": 14.05,
+            "numOfRows": 3,
+            "dataFiles": [
+                {
+                    "dataFileName": "Download_2020_10_21.csv",
+                    "dataSentDate": "2020-10-21"
+                },
+                {
+                    "dataFileName": "Download_2020_09_01.csv",
+                    "dataSentDate": "2020-09-01"
+                }
+            ]
+        },
+        {
+            "id": "03c2",
+            "connection": 2,
+            "fileName": "Downloads",
+            "numOfFiles": 8,
+            "fileSize": 15.97,
+            "numOfRows": 12,
+            "dataFiles": [
+                {
+                    "dataFileName": "Download_2020_01_07.csv",
+                    "dataSentDate": "2020-01-07"
+                },
+                {
+                    "dataFileName": "Download_2020_01_14.csv",
+                    "dataSentDate": "2020-06-14"
+                }
+            ]
+        }
+    ]
+}

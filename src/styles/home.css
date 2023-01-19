@@ -1,0 +1,49 @@
+#col9, #col3{
+    padding: 0px;
+}
+#searchBox{
+    display: inline-flex;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+#searchImg{
+    height: 25px;
+    margin-right: 5px;
+}
+#searchText{
+    border: 0px;
+    font-size: large;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+.card{
+    width: fit-content;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.card-body{
+    padding: 5px;
+}
+.dots{
+    height: 20px;
+    margin-top: 5px;
+}
+.img-fluid{
+    height: 40px;
+}
+.card-text{
+    font-size: small;
+}
+#file3{
+    padding: 15px;
+    width: 85%;
+    border: 1px solid #c2c0c0;
+    border-radius: 5px;
+}
+#desc{
+    line-height: 4px;
+    border: 1px solid #c2c0c0;
+    border-radius: 5px;
+}
